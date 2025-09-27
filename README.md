@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# GITHUB RULES
+<img width="692" height="636" alt="image1" src="https://github.com/user-attachments/assets/632a7dce-4457-4473-a5a5-6032440dcf23" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
