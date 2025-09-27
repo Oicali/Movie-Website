@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>This is a Movie Website Project!!!</h1>
-      </header>
+      </header> //Test
     </div>
   );
 }
